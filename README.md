@@ -14,3 +14,6 @@
 > npm install
 
 > npm start
+
+
+Future Work : Styling
