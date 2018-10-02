@@ -1,6 +1,13 @@
+
 .search-bar{
     margin:20px;
     text-align:center;
+}
+
+.logos{
+    width:130%;
+    background-color: red;
+    margin-left: -15%;
 }
 
 .search-bar input{
